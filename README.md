@@ -1,20 +1,13 @@
-```
-**Auteur** : Zoubeir23  
-**Email** : Zoubeiribrahima@gmail.com
-```
-
 # Système de Gestion de Fichiers et Dossiers
 
-Ce projet est un système de gestion de fichiers et dossiers en ligne de commande, développé en Python.
+## Auteur
+Développé par [Zoubeir23](https://github.com/Zoubeir23)  
+Contact : Zoubeiribrahima@gmail.com
 
-...
- # Système de Gestion de Fichiers et Dossiers
-
-Ce projet est un système de gestion de fichiers et dossiers en ligne de commande, développé en Python.
+## Description
+Ce projet est un système de gestion de fichiers et dossiers en ligne de commande, développé en Python. Il permet la création, la suppression, la copie, le déplacement et le listage de fichiers et dossiers avec gestion des erreurs.
 
 ## Fonctionnalités
-
-Le système offre les fonctionnalités suivantes :
 
 1. **Création de dossiers**
    - Création de nouveaux dossiers avec validation des chemins
@@ -43,20 +36,20 @@ Le système offre les fonctionnalités suivantes :
 ## Structure du Projet
 
 ```
-.
-├── main.py              # Point d'entrée du programme
-├── system/             # Package principal
-│   ├── __init__.py     # Fichier d'initialisation du package
-│   ├── main.py         # Logique du menu principal
-│   └── file_operations.py  # Fonctions de gestion des fichiers
-└── README.md           # Documentation du projet
+Systeme-Project/
+├── main.py               # Point d'entrée du programme
+├── system/               # Package principal
+│   ├── __init__.py       # Fichier d'initialisation du package
+│   ├── main.py           # Logique du menu principal
+│   └── file_operations.py # Fonctions de gestion des fichiers
+└── README.md             # Documentation du projet
 ```
 
 ## Installation
 
-1. Assurez-vous d'avoir Python 3.x installé sur votre système
-2. Clonez ce dépôt ou téléchargez les fichiers
-3. Aucune dépendance externe n'est requise
+1. Assurez-vous d'avoir Python 3.x installé sur votre système.
+2. Clonez ce dépôt ou téléchargez les fichiers.
+3. Aucune dépendance externe n'est requise.
 
 ## Utilisation
 
